@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**My name Birjitsinh**
+**My Name Is Birjitsinh**
 
 - 🔭 I’m currently working on Magento 2
 - 🌱 I’m currently learning Magento 2  adobe cloud commerce
